@@ -1,7 +1,5 @@
 # DSCommerce
 
-> 🚧 **Projeto em desenvolvimento** — este repositório está sendo construído como parte do curso [Java Spring Professional](https://devsuperior.club/courses/5) da [Dev Superior](https://devsuperior.com.br), ministrado pelo Prof. Dr. Nelio Alves.
-
 ## 📋 Sobre o projeto
 
 O **DSCommerce** é um sistema de e-commerce educacional, cujo objetivo é aplicar, na prática, os principais conceitos de desenvolvimento back-end com Java e Spring Boot. O sistema mantém um cadastro de usuários, produtos e categorias, permitindo que usuários naveguem por um catálogo de produtos, montem um carrinho de compras e finalizem pedidos.

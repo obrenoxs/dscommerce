@@ -68,11 +68,6 @@ Relacionamentos de destaque:
 | Banco de dados (produção) | MySQL *(a integrar)* |
 | Segurança | Spring Security + JWT *(a integrar)* |
 
-## 📄 Documentação
-
-- Documento de requisitos completo disponível na pasta `docs/` (ou referenciar aqui conforme adicionado ao repositório).
-- Protótipos de tela: [Figma](https://www.figma.com/file/ZrGNVNG0kZL6txDv4G8P6s/DSCommerce)
-
 ## 👤 Autor
 
 Desenvolvido por **Breno Oliveira de Souza** como parte dos estudos em desenvolvimento back-end com Java.

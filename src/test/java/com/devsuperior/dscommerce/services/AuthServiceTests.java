@@ -57,7 +57,7 @@ public class AuthServiceTests {
     }
 
     @Test
-    public void validateSelfOrAdminThrowsForbbidenExceptionWhenClientOtherLogged() {
+    public void validateSelfOrAdminThrowsForbiddenExceptionWhenClientOtherLogged() {
 
         Mockito.when(userService.authenticated()).thenReturn(selfClient);
 
